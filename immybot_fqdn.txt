@@ -2,3 +2,4 @@ immystrg00730.blob.core.windows.net
 immybot.blob.core.windows.net
 cdn.immy.bot
 intellicomp.immy.bot
+local.cdn.immy.bot
