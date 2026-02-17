@@ -1,3 +1,4 @@
+aadcdn.msftauth.net
 aadrm.com
 account.activedirectory.windowsazure.com
 account.live.com
