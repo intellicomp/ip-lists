@@ -12,6 +12,7 @@ fts-prod-oregon.ninjarmm.com
 fts-prod-sydney.ninjarmm.com
 ninja-catalog-release.s3.us-east-1.amazonaws.com
 ninjauploads.s3.amazonaws.com
+ninja-attachments.s3.us-west-2.amazonaws.com
 resources.ninjarmm.com
 rtc-us-west-1.ninjarmm.com
 rtc-us-west-2.ninjarmm.com
