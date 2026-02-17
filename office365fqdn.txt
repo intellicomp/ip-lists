@@ -1,3 +1,4 @@
+aadcdn.msauth.net
 aadcdn.msftauth.net
 aadrm.com
 account.activedirectory.windowsazure.com
@@ -29,6 +30,7 @@ autodiscover-s.outlook.com
 autodiscover.onmicrosoft.com
 autodiscover.outlook.com
 autologon.microsoftazuread-sso.com
+autoupdate.msappproxy.net
 azure-apim.net
 azurerms.com
 becws.microsoftonline.com
@@ -87,6 +89,7 @@ logincert.microsoftonline.com
 loginex.microsoftonline.com
 lync.com
 mail.protection.outlook.com
+management.azure.com
 mem.gfx.ms
 microsoft.com
 microsoftonline-p.com
@@ -159,6 +162,7 @@ sara.api.support.microsoft.com
 search.production.apac.trafficmanager.net
 search.production.emea.trafficmanager.net
 search.production.us.trafficmanager.net
+secure.aadcdn.microsoftonline-p.com
 secure.globalsign.com
 security.microsoft.com
 sharepoint.com
@@ -192,6 +196,7 @@ www.bing.com
 www.digicert.com
 www.microsoft.com
 www.microsoft365.com
+www.office.com
 www.onedrive.com
 www.outlook.com
 www.sway.com
