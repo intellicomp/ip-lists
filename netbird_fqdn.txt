@@ -1,0 +1,3 @@
+# https://docs.netbird.io/about-netbird/ports-and-firewalls
+stun.netbird.io
+turn.netbird.io
