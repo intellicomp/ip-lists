@@ -14,3 +14,5 @@ huntress-survey-results.s3.amazonaws.com
 notify.bugsnag.com
 sessions.bugsnag.com
 huntress-log-uploads.s3.amazonaws.com
+huntress-installers.s3.us-east-1.amazonaws.com
+agent.huntress.io
